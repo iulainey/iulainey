@@ -1,4 +1,10 @@
 ## Hi there 👋
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("QA Automation is my path 🚀");
+    }
+}```
 
 <!--
 **iulainey/iulainey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
