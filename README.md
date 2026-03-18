@@ -7,8 +7,8 @@ public class HelloWorld {
 }
 ```
 ## About me
- • QA Engineer (manual + automation)
- • Testing web, mobile and backend
+ - QA Engineer (manual + automation)
+ - Testing web, mobile and backend
 
 ## Project examples
 ### Invitro autotests (UI + API)
